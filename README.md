@@ -1,2 +1,2 @@
 # animes-react-js-typescript
-website animes with reactJS, Typescript, Apollo Client, WebPack
+website animes with ReactJS, Typescript, Apollo Client, WebPack, Emotion
